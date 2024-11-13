@@ -48,6 +48,34 @@ ___
   </li>
 </ul>
 
+---
+theme: default
+title: Reach me out
+class: text-left
+---
+
+## I help students learn efficiently 🤝🧠
+___
+
+<br /><br />
+
+<ul>
+  <li v-click>
+    <span class="text-3xl">
+      <a href="https://discord.gg/GQSJqhg2" target="_blank">https://discord.gg/GQSJqhg2 </a>
+    </span>
+  </li>
+  <br />
+  <li v-click>
+    <span class="text-3xl">
+      <a href="https://dev.butadpj.com">dev.butadpj.com</a>
+    </span>
+  </li>
+  <br />
+  <li v-click>
+    <span class="text-3xl">@butadpj</span>
+  </li>
+</ul>
 
 ---
 layout: end
