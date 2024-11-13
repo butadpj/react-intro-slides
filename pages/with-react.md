@@ -13,6 +13,61 @@ transition: fade
   <p class="italic">"Uhhmm actually, it's not just React.js, but, modern tooling too!"</p>
 </div>
 
+---
+theme: default
+title: React.js in a nutshell
+class: text-left
+
+transition: fade
+---
+
+## React.js in a nutshell
+___
+
+<ul class="mt-10">
+  <li v-click class="text-2xl">Allows you to build UI elements as reusable components</li>
+</ul>
+<br />
+<img v-click src="/assets/ui-components.png" width="600" height="600" class="block mx-auto"/>
+
+---
+theme: default
+title: React.js in a nutshell
+class: text-left
+
+transition: fade
+---
+
+## React.js in a nutshell
+___
+
+<ul class="mt-10">
+  <li class="text-2xl">Handles synchronization of HTML Elements with Data (State)</li>
+</ul>
+<br />
+<img v-click src="https://media.geeksforgeeks.org/wp-content/uploads/20231031094123/Peek-2023-10-31-09-40.gif" width="600" height="600" class="block mx-auto"/>
+
+---
+theme: default
+title: React.js in a nutshell
+class: text-left
+
+transition: fade
+---
+
+## React.js + Modern tooling
+___
+
+<ul class="mt-10">
+  <li class="text-2xl">Smooth JavaScript development experience (DX)</li>
+</ul>
+<br />
+
+<div v-click class="flex items-center justify-around">
+  <img src="https://flaviocopes.com/images/vite-react-app/Untitled%203.png" width="400" height="400" class="block"/>
+
+  <img src="/assets/npm-install.png" width="450" height="450" class="block"/>
+</div>
 
 ---
 theme: default
